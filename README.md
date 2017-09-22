@@ -26,10 +26,10 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 npm i element-ui -S
 
 # 在项目内使用ElementUI
-修改main.js
-import Vue from 'vue'
-import ElementUI from 'element-ui'
-import 'element-ui/lib/theme-default/index.css'
-import App from './App.vue'
-Vue.use(ElementUI)
+#修改main.js
+#import Vue from 'vue'
+#import ElementUI from 'element-ui'
+#import 'element-ui/lib/theme-default/index.css'
+#import App from './App.vue'
+#Vue.use(ElementUI)
 
